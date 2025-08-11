@@ -21,3 +21,7 @@ Parasocial spillover (“take us everywhere”), creators escalating for clips, 
 
 https://static.simonwillison.net/static/2025/timescope-card.jpg<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/db29593b-175b-4e13-87c7-62871b81e9a5" />
 
+
+### papers & references
+
+[papers.md](./papers.md)
