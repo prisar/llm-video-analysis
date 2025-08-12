@@ -15,7 +15,15 @@ Royce’s Disney IRL phase; post-pandemic “presence” and ambient companionsh
 Parasocial spillover (“take us everywhere”), creators escalating for clips, a street-fight anecdote to show clout dynamics; takeaway: IRL’s center of gravity tilts toward spectacle once algorithms reward spikes over substance.
 
 
+### evaluation
 
+  Evaluation Metrics
+  
+  - Correctness
+  - Detail Orientation
+  - Contextual Understanding
+  - Temporal Understanding
+  - Consistency
 
 ### duration
 
